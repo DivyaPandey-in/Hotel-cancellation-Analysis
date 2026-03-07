@@ -30,8 +30,8 @@ The following tools and libraries are used:
 - Python
 - Pandas : Data manipulation
 - NumPy  : Numerical operations
-- Matplotlib – Data visualization
-- Seaborn – Statistical visualization
+- Matplotlib : Data visualization
+- Seaborn : Statistical visualization
 - Jupyter Notebook
 
 # Key Analysis Performed
@@ -42,7 +42,7 @@ The following tools and libraries are used:
 - Seasonal trends in hotel bookings
 - Influence of market segment and distribution channel
 - Monthly booking trends and demand patterns
-  
+
 # Key Insights
 Some insights derived from the analysis:
 - City hotels often have higher cancellation rates than resort hotels.
