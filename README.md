@@ -45,14 +45,19 @@ The following tools and libraries are used:
 # Visualization
 # Reservation status count i.e cancelled vs not cancelled
    <img width="461" height="374" alt="image" src="https://github.com/user-attachments/assets/7e7e6daf-67a0-426f-9d90-5d5ea5902413" />
+   
 # Cancellation rate by hotel type
 <img width="713" height="401" alt="image" src="https://github.com/user-attachments/assets/278fa43d-4f9c-45b6-958d-a25e4682286b" />
+
 # Average Daily Rate Trend
 <img width="1606" height="701" alt="image" src="https://github.com/user-attachments/assets/c4591b22-6895-421c-aa94-f7180122a720" />
+
 # Reservation Status per month
 <img width="1474" height="709" alt="image" src="https://github.com/user-attachments/assets/4a705de3-cab7-4c35-b28b-073fa723d58e" />
-# Averate Daily Rtae per month
+
+# Averate Daily Rate per month
 <img width="1264" height="721" alt="image" src="https://github.com/user-attachments/assets/50dac6b3-6b2f-4b93-9453-140c3aedcad4" />
+
 # Top 10 countries with reservation cancelled
 <img width="790" height="812" alt="image" src="https://github.com/user-attachments/assets/9bd5646d-1743-4c50-84c0-b2d023409a5e" />
 
