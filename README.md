@@ -1,4 +1,4 @@
-# Hotel-cancellation-Analysis
+# Hotel Booking Cancellation Analysis using Python (EDA Project)
 Hotel booking cancellations are a major challenge in the hospitality industry because they cause revenue loss and inefficient room utilization. This project analyzes hotel booking data to identify patterns and factors that influence cancellations and provide insights that can help hotels reduce cancellation rates.
 
 The dataset used in this project contains 119,390 hotel booking records for City Hotels and Resort Hotels collected between July 2015 and August 2017, including both completed and canceled bookings.
